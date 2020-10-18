@@ -4,6 +4,8 @@
 
 表情包来自 [Blob.cat](https://blob.cat) 实例。
 
+Emojis copied from [Blob.cat](https://blob.cat).
+
 ## 在 Valine 评论系统中使用
 
 ```html
@@ -84,4 +86,4 @@ new Valine({
 
 ![image](https://cdn.jsdelivr.net/gh/injellyfish/PicGo-pictures//blog/blobcat.png)
 
-https://cdn.jsdelivr.net/gh/injellyfish/PicGo-pictures//blog/blobcat.png
+如果图片打不开，可以点击此链接查看：https://cdn.jsdelivr.net/gh/injellyfish/PicGo-pictures//blog/blobcat.png
