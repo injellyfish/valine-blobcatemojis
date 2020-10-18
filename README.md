@@ -13,7 +13,7 @@ new Valine({
     el:'#vcomment',
     appId:'<Your_APP_ID>',
     appKey:'<Your_APP_KEY>',
-    emojiCDN: '//cdn.jsdelivr.net/gh/injellyfish/BLOBSEMOJI@1.1/blobs/', 
+    emojiCDN: '//cdn.jsdelivr.net/gh/injellyfish/valine-blobcatemojis@1.1/blobs/', 
     emojiMaps: {
                   "ablobcatheart": "ablobcatheart.png",
                   "ablobcatheartbroken": "ablobcatheartbroken.png",
