@@ -8,6 +8,8 @@ Emojis copied from [Blob.cat](https://blob.cat).
 
 ## 在 Valine 评论系统中使用
 
+Valine 是什么 / What is Valine：https://valine.js.org/
+
 ```html
 new Valine({
     el:'#vcomment',
